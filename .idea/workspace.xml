@@ -18,8 +18,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="workspace.xml dosyası eklendi">
+      <change afterPath="$PROJECT_DIR$/T28/Sorular.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T28/soru2 diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T28/soru3 diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T28/soru6 diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T25/Operatorler.c" beforeDir="false" afterPath="$PROJECT_DIR$/T25/Operatorler.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +42,12 @@
     &quot;assignee&quot;: &quot;samarslan&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/samarslan/SoftITo-Embedded.git&quot;,
-    &quot;accountId&quot;: &quot;02c9e07e-8aa6-4ba1-9f99-fdb76f28997e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/samarslan/SoftITo-Embedded.git",
+    "accountId": "7f37592f-83f7-4411-9dbe-b6cdf3d6ac3e"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/T24/Fonksyonlar.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///home/sametarslan/SoftITo-Embedded/T25/Operatorler.c" root0="SKIP_HIGHLIGHTING" />
@@ -62,28 +66,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Fonksyon.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Fonksyonlar.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Operatorler.c.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Döngüler.c.executor": "Run",
+    "C/C++ File.Fonksyon.c.executor": "Run",
+    "C/C++ File.Fonksyonlar.c.executor": "Run",
+    "C/C++ File.Operatorler.c.executor": "Run",
+    "C/C++ File.Sorular.c.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/arsla/CLionProjects/SoftITo-Embedded/T28",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -122,7 +130,18 @@
       <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" weight="0.32984102" />
     </layout>
   </component>
-  <component name="RunManager" selected="C/C++ File.Operatorler.c">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arsla\CLionProjects\SoftITo-Embedded\T28" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.Sorular.c">
+    <configuration name="Döngüler.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Döngüler.c" CONFIG_NAME="Döngüler.c">
+      <option name="sourceFile" value="T28\Döngüler.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fonksyonlar.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Fonksyonlar.c" CONFIG_NAME="Fonksyonlar.c">
       <option name="sourceFile" value="T24/Fonksyonlar.c" />
       <method v="2">
@@ -135,8 +154,16 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sorular.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Sorular.c" CONFIG_NAME="Sorular.c">
+      <option name="sourceFile" value="T28\Sorular.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Sorular.c" />
+        <item itemvalue="C/C++ File.Döngüler.c" />
         <item itemvalue="C/C++ File.Operatorler.c" />
         <item itemvalue="C/C++ File.Fonksyonlar.c" />
       </list>
@@ -155,6 +182,7 @@
       <workItem from="1753451048618" duration="614000" />
       <workItem from="1753451809292" duration="54000" />
       <workItem from="1753461636422" duration="1077000" />
+      <workItem from="1753685898297" duration="2661000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -185,6 +213,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
