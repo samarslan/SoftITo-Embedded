@@ -55,7 +55,7 @@ int ucgenmi(int a, int b, int c) {
     }
 }
 
-int eskenarMi(int a, int b, int c) {
+int eskenarmi(int a, int b, int c) {
     if (a == b) {
         if (b == c)
             return 1;
@@ -127,7 +127,7 @@ int main() {
     scanf("%d %d %d", &a, &b, &c);
     if (ucgenmi(a, b, c)) {
         printf("Bu bir üçgendir\n");
-        if (eskenarMi(a, b, c)) {
+        if (eskenarmi(a, b, c)) {
             printf("Eşkenar üçgendir\n");
         } else {
             printf("Eşkenar değildir\n");
