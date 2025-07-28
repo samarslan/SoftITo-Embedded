@@ -17,10 +17,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Soru diagramları eklendi">
-      <change afterPath="$PROJECT_DIR$/T28/Sorular2.c" afterDir="false" />
+    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Sorular2.c eklendi">
+      <change afterPath="$PROJECT_DIR$/T28/Sorular3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T28/Sorular.c" beforeDir="false" afterPath="$PROJECT_DIR$/T28/Sorular.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,7 +51,7 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/T24/Fonksyonlar.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///home/sametarslan/SoftITo-Embedded/T25/Operatorler.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/arsla/CLionProjects/SoftITo-Embedded/T28/Sorular.c" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -179,7 +183,7 @@
       <workItem from="1753451048618" duration="614000" />
       <workItem from="1753451809292" duration="54000" />
       <workItem from="1753461636422" duration="1077000" />
-      <workItem from="1753685898297" duration="13467000" />
+      <workItem from="1753685898297" duration="14589000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -221,7 +225,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753688905122</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Yazım yanlışı düzeltildi">
+      <option name="closed" value="true" />
+      <created>1753706300360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753706300360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sorular2.c eklendi">
+      <option name="closed" value="true" />
+      <created>1753706311636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753706311636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +264,9 @@
     <MESSAGE value="workspace.xml dosyası eklendi" />
     <MESSAGE value="Sorular.c dosyası eklendi" />
     <MESSAGE value="Soru diagramları eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soru diagramları eklendi" />
+    <MESSAGE value="Yazım yanlışı düzeltildi" />
+    <MESSAGE value="Sorular2.c eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorular2.c eklendi" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
