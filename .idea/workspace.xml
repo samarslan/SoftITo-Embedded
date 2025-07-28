@@ -17,13 +17,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="workspace.xml dosyası eklendi">
-      <change afterPath="$PROJECT_DIR$/T28/Sorular.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T28/soru2 diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T28/soru3 diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T28/soru6 diagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Soru diagramları eklendi">
+      <change afterPath="$PROJECT_DIR$/T28/Sorular2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T28/Sorular.c" beforeDir="false" afterPath="$PROJECT_DIR$/T28/Sorular.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +179,7 @@
       <workItem from="1753451048618" duration="614000" />
       <workItem from="1753451809292" duration="54000" />
       <workItem from="1753461636422" duration="1077000" />
-      <workItem from="1753685898297" duration="2661000" />
+      <workItem from="1753685898297" duration="13467000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -208,7 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753462023552</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sorular.c dosyası eklendi">
+      <option name="closed" value="true" />
+      <created>1753688893342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753688893342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Soru diagramları eklendi">
+      <option name="closed" value="true" />
+      <created>1753688905122</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753688905122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +242,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Operatorler dosyası eklendi" />
     <MESSAGE value="workspace.xml dosyası eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml dosyası eklendi" />
+    <MESSAGE value="Sorular.c dosyası eklendi" />
+    <MESSAGE value="Soru diagramları eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soru diagramları eklendi" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
