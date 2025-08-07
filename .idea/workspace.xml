@@ -17,10 +17,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Sorular3.c eklendi">
-      <change afterPath="$PROJECT_DIR$/T29/Sorular.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T29/Sorular2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T29/Tablo.c" afterDir="false" />
+    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Temmuz 29 eklendi">
+      <change afterPath="$PROJECT_DIR$/A6/DisplayData.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A6/HesapMakinesi.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A6/Mevsimler.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T31/UcluOperator.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -416,19 +417,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.DisplayData.c.executor": "Run",
     "C/C++ File.Döngüler.c.executor": "Run",
     "C/C++ File.Fonksyon.c.executor": "Run",
     "C/C++ File.Fonksyonlar.c.executor": "Run",
+    "C/C++ File.HesapMakinesi.c.executor": "Run",
+    "C/C++ File.Mevsimler.c.executor": "Run",
     "C/C++ File.Operatorler.c.executor": "Run",
     "C/C++ File.Sorular.c (1).executor": "Run",
     "C/C++ File.Sorular.c.executor": "Run",
     "C/C++ File.Sorular2.c.executor": "Run",
     "C/C++ File.Sorular3.c.executor": "Run",
     "C/C++ File.Tablo.c.executor": "Run",
+    "C/C++ File.UcluOperator.c.executor": "Run",
     "C/C++ File.tablo.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -488,21 +494,21 @@
       <recent name="C:\Users\arsla\CLionProjects\SoftITo-Embedded\T28" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Tablo.c">
-    <configuration name="Sorular2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Sorular2.c" CONFIG_NAME="Sorular2.c">
-      <option name="sourceFile" value="T29\Sorular2.c" />
+  <component name="RunManager" selected="C/C++ File.HesapMakinesi.c">
+    <configuration name="DisplayData.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="DisplayData.c" CONFIG_NAME="DisplayData.c">
+      <option name="sourceFile" value="A6\DisplayData.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorular3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Sorular3.c" CONFIG_NAME="Sorular3.c">
-      <option name="sourceFile" value="T28\Sorular3.c" />
+    <configuration name="HesapMakinesi.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="HesapMakinesi.c" CONFIG_NAME="HesapMakinesi.c">
+      <option name="sourceFile" value="A6\HesapMakinesi.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorular.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Sorular.c" CONFIG_NAME="Sorular.c">
-      <option name="sourceFile" value="T29\Sorular.c" />
+    <configuration name="Mevsimler.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Mevsimler.c" CONFIG_NAME="Mevsimler.c">
+      <option name="sourceFile" value="A6\Mevsimler.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -513,19 +519,26 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tablo.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="tablo.c" CONFIG_NAME="tablo.c">
-      <option name="sourceFile" value="T29\tablo.c" />
+    <configuration name="UcluOperator.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="UcluOperator.c" CONFIG_NAME="UcluOperator.c">
+      <option name="sourceFile" value="T31\UcluOperator.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="C/C++ File.DisplayData.c" />
+      <item itemvalue="C/C++ File.HesapMakinesi.c" />
+      <item itemvalue="C/C++ File.Mevsimler.c" />
+      <item itemvalue="C/C++ File.UcluOperator.c" />
+      <item itemvalue="C/C++ File.Tablo.c" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.HesapMakinesi.c" />
+        <item itemvalue="C/C++ File.DisplayData.c" />
+        <item itemvalue="C/C++ File.Mevsimler.c" />
+        <item itemvalue="C/C++ File.UcluOperator.c" />
         <item itemvalue="C/C++ File.Tablo.c" />
-        <item itemvalue="C/C++ File.Sorular2.c" />
-        <item itemvalue="C/C++ File.Sorular.c (1)" />
-        <item itemvalue="C/C++ File.tablo.c" />
-        <item itemvalue="C/C++ File.Sorular3.c" />
       </list>
     </recent_temporary>
   </component>
@@ -544,6 +557,9 @@
       <workItem from="1753461636422" duration="1077000" />
       <workItem from="1753685898297" duration="16672000" />
       <workItem from="1753769440259" duration="19396000" />
+      <workItem from="1753856677507" duration="1224000" />
+      <workItem from="1753943140368" duration="6487000" />
+      <workItem from="1754470700147" duration="10536000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -609,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753709270191</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Temmuz 29 eklendi">
+      <option name="closed" value="true" />
+      <created>1753856700842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753856700842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +659,8 @@
     <MESSAGE value="Yazım yanlışı düzeltildi" />
     <MESSAGE value="Sorular2.c eklendi" />
     <MESSAGE value="Sorular3.c eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorular3.c eklendi" />
+    <MESSAGE value="Temmuz 29 eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temmuz 29 eklendi" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
