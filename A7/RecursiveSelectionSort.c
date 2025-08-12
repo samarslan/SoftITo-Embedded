@@ -14,14 +14,14 @@ void printArray(int dizi[], int size) {
     printf("\n");
 }
 
-int findMin(int dizi[], int index, int son, int min_index) {
-    if (index >= son)
+int findMin(int dizi[], int index, int length, int min_index) {
+    if (index >= length)
         return min_index;
 
     if (dizi[index] < dizi[min_index])
         min_index = index;
 
-    return findMin(dizi, index + 1, son, min_index);
+    return findMin(dizi, index + 1, length, min_index);
 }
 
 int main() {
