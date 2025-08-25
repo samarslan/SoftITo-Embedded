@@ -7,6 +7,7 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="InlayHintsGeneralOptionsPageId" type="string" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
   <component name="CMakeProjectFlavorService">
@@ -19,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Ağustos 8 eklendi">
-      <change afterPath="$PROJECT_DIR$/A12/EBOB.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A12/Faktoriyel.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A12/RecursiveSelectionSort2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A12/ReverseArrayRecursive.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/CallByRef.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/DaireAlani.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/DaireAlani2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/DaireHesaplama.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/Operator.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/Pointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/Pointer2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/PointerArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A25/Swap.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +57,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/samarslan/SoftITo-Embedded.git&quot;,
-    &quot;accountId&quot;: &quot;7f37592f-83f7-4411-9dbe-b6cdf3d6ac3e&quot;
+    &quot;accountId&quot;: &quot;9df614ce-f2fd-4cec-8100-8b85513db138&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -248,65 +255,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.Arrays.c.executor": "Run",
-    "C/C++ File.DisplayData.c.executor": "Run",
-    "C/C++ File.Döngüler.c.executor": "Run",
-    "C/C++ File.EBOB.c.executor": "Run",
-    "C/C++ File.EvenOdd.c.executor": "Debug",
-    "C/C++ File.Faktoriyel.c.executor": "Run",
-    "C/C++ File.Fonksyon.c.executor": "Run",
-    "C/C++ File.Fonksyonlar.c.executor": "Run",
-    "C/C++ File.HesapMakinesi.c.executor": "Run",
-    "C/C++ File.Kaydirma.c.executor": "Run",
-    "C/C++ File.Kaydırma.c.executor": "Run",
-    "C/C++ File.Mevsimler.c.executor": "Run",
-    "C/C++ File.Min.c.executor": "Run",
-    "C/C++ File.MinMax.c.executor": "Run",
-    "C/C++ File.Operatorler.c.executor": "Run",
-    "C/C++ File.RecursiveSelectionSort.c.executor": "Run",
-    "C/C++ File.ReverseArray.c.executor": "Run",
-    "C/C++ File.ReverseArrayRecursive.c.executor": "Run",
-    "C/C++ File.SelectionSort.c.executor": "Run",
-    "C/C++ File.Soru1.c.executor": "Run",
-    "C/C++ File.Soru10.c.executor": "Run",
-    "C/C++ File.Soru11.c.executor": "Run",
-    "C/C++ File.Soru2.c.executor": "Run",
-    "C/C++ File.Soru3.c.executor": "Run",
-    "C/C++ File.Soru4.c.executor": "Run",
-    "C/C++ File.Soru6.c.executor": "Run",
-    "C/C++ File.Soru7.c.executor": "Run",
-    "C/C++ File.Soru8.c.executor": "Run",
-    "C/C++ File.Soru9.c.executor": "Run",
-    "C/C++ File.Sorular.c (1).executor": "Run",
-    "C/C++ File.Sorular.c.executor": "Run",
-    "C/C++ File.Sorular2.c.executor": "Run",
-    "C/C++ File.Sorular3.c.executor": "Run",
-    "C/C++ File.Tablo.c.executor": "Run",
-    "C/C++ File.UcluOperator.c.executor": "Run",
-    "C/C++ File.tablo.c.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/arsla/CLionProjects/SoftITo-Embedded/A12",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Arrays.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.CallByRef.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DaireAlani.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DaireAlani2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DaireHesaplama.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DisplayData.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Döngüler.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.EBOB.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.EvenOdd.c.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.Faktoriyel.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Fonksyon.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Fonksyonlar.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.HesapMakinesi.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Kaydirma.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Kaydırma.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Mevsimler.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Min.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.MinMax.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Operator.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Operatorler.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Pointer.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Pointer2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.PointerArray.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.RecursiveSelectionSort.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ReverseArray.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ReverseArrayRecursive.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.SelectionSort.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru1.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru10.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru11.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru4.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru6.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru7.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru8.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Soru9.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Sorular.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Sorular.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Sorular2.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Sorular3.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Swap.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Tablo.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.UcluOperator.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tablo.c.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/derslik3-07/CLionProjects/SoftITo-Embedded/A25&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -347,56 +363,57 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A25" />
       <recent name="C:\Users\arsla\CLionProjects\SoftITo-Embedded\A12" />
       <recent name="C:\Users\arsla\CLionProjects\SoftITo-Embedded\A8" />
       <recent name="C:\Users\arsla\CLionProjects\SoftITo-Embedded\T28" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.ReverseArrayRecursive.c">
-    <configuration name="EBOB.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="EBOB.c" CONFIG_NAME="EBOB.c">
-      <option name="sourceFile" value="A12\EBOB.c" />
+  <component name="RunManager" selected="C/C++ File.DaireHesaplama.c">
+    <configuration name="CallByRef.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="CallByRef.c" CONFIG_NAME="CallByRef.c">
+      <option name="sourceFile" value="A25/CallByRef.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Faktoriyel.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Faktoriyel.c" CONFIG_NAME="Faktoriyel.c">
-      <option name="sourceFile" value="A12\Faktoriyel.c" />
+    <configuration name="DaireAlani2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="DaireAlani2.c" CONFIG_NAME="DaireAlani2.c">
+      <option name="sourceFile" value="A25/DaireAlani2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveSelectionSort.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="RecursiveSelectionSort.c" CONFIG_NAME="RecursiveSelectionSort.c">
-      <option name="sourceFile" value="A7\RecursiveSelectionSort.c" />
+    <configuration name="DaireAlani.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="DaireAlani.c" CONFIG_NAME="DaireAlani.c">
+      <option name="sourceFile" value="A25/DaireAlani.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArrayRecursive.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="ReverseArrayRecursive.c" CONFIG_NAME="ReverseArrayRecursive.c">
-      <option name="sourceFile" value="A12\ReverseArrayRecursive.c" />
+    <configuration name="DaireHesaplama.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="DaireHesaplama.c" CONFIG_NAME="DaireHesaplama.c">
+      <option name="sourceFile" value="A25/DaireHesaplama.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Soru11.c" CONFIG_NAME="Soru11.c">
-      <option name="sourceFile" value="A8\Soru11.c" />
+    <configuration name="Swap.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Swap.c" CONFIG_NAME="Swap.c">
+      <option name="sourceFile" value="A25/Swap.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.EBOB.c" />
-      <item itemvalue="C/C++ File.Faktoriyel.c" />
-      <item itemvalue="C/C++ File.RecursiveSelectionSort.c" />
-      <item itemvalue="C/C++ File.ReverseArrayRecursive.c" />
-      <item itemvalue="C/C++ File.Soru11.c" />
+      <item itemvalue="C/C++ File.CallByRef.c" />
+      <item itemvalue="C/C++ File.DaireAlani2.c" />
+      <item itemvalue="C/C++ File.DaireAlani.c" />
+      <item itemvalue="C/C++ File.DaireHesaplama.c" />
+      <item itemvalue="C/C++ File.Swap.c" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.ReverseArrayRecursive.c" />
-        <item itemvalue="C/C++ File.EBOB.c" />
-        <item itemvalue="C/C++ File.Faktoriyel.c" />
-        <item itemvalue="C/C++ File.RecursiveSelectionSort.c" />
-        <item itemvalue="C/C++ File.Soru11.c" />
+        <item itemvalue="C/C++ File.DaireHesaplama.c" />
+        <item itemvalue="C/C++ File.Swap.c" />
+        <item itemvalue="C/C++ File.DaireAlani2.c" />
+        <item itemvalue="C/C++ File.DaireAlani.c" />
+        <item itemvalue="C/C++ File.CallByRef.c" />
       </list>
     </recent_temporary>
   </component>
@@ -423,6 +440,10 @@
       <workItem from="1754576731501" duration="1713000" />
       <workItem from="1754662257173" duration="15980000" />
       <workItem from="1755004262063" duration="8636000" />
+      <workItem from="1756105639911" duration="6102000" />
+      <workItem from="1756116792334" duration="3490000" />
+      <workItem from="1756120318672" duration="164000" />
+      <workItem from="1756120491784" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
