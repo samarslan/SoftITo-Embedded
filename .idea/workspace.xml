@@ -256,9 +256,9 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.Arrays.c" />
-      <item itemvalue="C/C++ File.DaireHesaplama.c" />
       <item itemvalue="C/C++ File.PrintArray.c" />
       <item itemvalue="C/C++ File.RandomArray.c" />
+      <item itemvalue="C/C++ File.DaireHesaplama.c" />
       <item itemvalue="C/C++ File.Swap.c" />
     </list>
     <recent_temporary>
