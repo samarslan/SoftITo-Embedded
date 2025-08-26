@@ -19,12 +19,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Ağustos 25 eklendi">
-      <change afterPath="$PROJECT_DIR$/A25/Arrays.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A25/PrintArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A25/RandomArray.c" afterDir="false" />
+    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="Ağustos 25 fix">
+      <change afterPath="$PROJECT_DIR$/A26/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A26/utility.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A26/utility.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A25/DaireHesaplama.c" beforeDir="false" afterPath="$PROJECT_DIR$/A25/DaireHesaplama.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A25/RandomArray.c" beforeDir="false" afterPath="$PROJECT_DIR$/A25/RandomArray.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,43 +55,9 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/derslik3-07/CLionProjects/SoftITo-Embedded/A25/DaireHesaplama.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/derslik3-07/CLionProjects/SoftITo-Embedded/A25/DaireHesaplama.c" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/T24/Fonksyonlar.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -155,6 +121,7 @@
     &quot;C/C++ File.Swap.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Tablo.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.UcluOperator.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.main.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.tablo.c.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
@@ -223,7 +190,7 @@
       <recent name="C:\Users\arsla\CLionProjects\SoftITo-Embedded\T28" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.RandomArray.c">
+  <component name="RunManager" selected="C/C++ File.main.c">
     <configuration name="Arrays.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Arrays.c" CONFIG_NAME="Arrays.c">
       <option name="sourceFile" value="A25/Arrays.c" />
       <method v="2">
@@ -248,26 +215,26 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="Swap.c" CONFIG_NAME="Swap.c">
-      <option name="sourceFile" value="A25/Swap.c" />
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SoftITo-Embedded" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="A26/main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.main.c" />
       <item itemvalue="C/C++ File.Arrays.c" />
       <item itemvalue="C/C++ File.PrintArray.c" />
       <item itemvalue="C/C++ File.RandomArray.c" />
       <item itemvalue="C/C++ File.DaireHesaplama.c" />
-      <item itemvalue="C/C++ File.Swap.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.main.c" />
         <item itemvalue="C/C++ File.RandomArray.c" />
         <item itemvalue="C/C++ File.PrintArray.c" />
         <item itemvalue="C/C++ File.Arrays.c" />
         <item itemvalue="C/C++ File.DaireHesaplama.c" />
-        <item itemvalue="C/C++ File.Swap.c" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +267,9 @@
       <workItem from="1756120491784" duration="1414000" />
       <workItem from="1756121943738" duration="2625000" />
       <workItem from="1756125567205" duration="4311000" />
+      <workItem from="1756187714068" duration="389000" />
+      <workItem from="1756188468647" duration="5562000" />
+      <workItem from="1756195488387" duration="3537000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -421,7 +391,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756122000088</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Ağustos 25 eklendi">
+      <option name="closed" value="true" />
+      <created>1756187733662</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756187733662</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ağustos 25 fix">
+      <option name="closed" value="true" />
+      <created>1756187929918</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1756187929918</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +440,8 @@
     <MESSAGE value="variable name fix" />
     <MESSAGE value="Ağustos 8 eklendi" />
     <MESSAGE value="Ağustos 25 eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ağustos 25 eklendi" />
+    <MESSAGE value="Ağustos 25 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ağustos 25 fix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
