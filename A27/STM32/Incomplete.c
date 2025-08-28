@@ -26,7 +26,7 @@ void setPin(uint32_t* port, int pin, int logic){
 }
 
 int main(void) {
-    *AHB1ENR |= (1u << 1);
+    *AHB1ENR |= (1u << 2);
     *AHB1ENR |= (1u << 1);
     for(int i=0; i<31;i=i+2){
         *GPIOC_MODER |= (1u << i);
