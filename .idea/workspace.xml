@@ -19,9 +19,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="E9 edit">
-      <change afterPath="$PROJECT_DIR$/E11/TIM_20us.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E11/TIM_LED.c" afterDir="false" />
+    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="E11 Added">
+      <change afterPath="$PROJECT_DIR$/E12/dht11.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -298,7 +297,9 @@
       <workItem from="1756383706335" duration="14570000" />
       <workItem from="1757422124486" duration="6053000" />
       <workItem from="1757487595452" duration="3753000" />
-      <workItem from="1757573039328" duration="9320000" />
+      <workItem from="1757573039328" duration="9354000" />
+      <workItem from="1757654394210" duration="2172000" />
+      <workItem from="1757684171945" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -500,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757573088124</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="E11 Added">
+      <option name="closed" value="true" />
+      <created>1757597884991</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1757597884991</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +551,8 @@
     <MESSAGE value="strings eklendi" />
     <MESSAGE value="Exam added" />
     <MESSAGE value="E9 edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="E9 edit" />
+    <MESSAGE value="E11 Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="E11 Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
