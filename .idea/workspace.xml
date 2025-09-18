@@ -19,8 +19,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="E11 Added">
-      <change afterPath="$PROJECT_DIR$/E12/dht11.c" afterDir="false" />
+    <list default="true" id="5a540296-181c-4186-9acf-56c9f565d511" name="Changes" comment="E12 Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -299,7 +298,8 @@
       <workItem from="1757487595452" duration="3753000" />
       <workItem from="1757573039328" duration="9354000" />
       <workItem from="1757654394210" duration="2172000" />
-      <workItem from="1757684171945" duration="44000" />
+      <workItem from="1757684171945" duration="402000" />
+      <workItem from="1757915991011" duration="2587000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -509,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757597884991</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="E12 Added">
+      <option name="closed" value="true" />
+      <created>1757684527662</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1757684527662</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="Operatorler dosyası eklendi" />
     <MESSAGE value="workspace.xml dosyası eklendi" />
     <MESSAGE value="Sorular.c dosyası eklendi" />
@@ -552,7 +559,8 @@
     <MESSAGE value="Exam added" />
     <MESSAGE value="E9 edit" />
     <MESSAGE value="E11 Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="E11 Added" />
+    <MESSAGE value="E12 Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="E12 Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
